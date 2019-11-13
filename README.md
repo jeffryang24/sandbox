@@ -13,3 +13,7 @@ An experiment and issue reproduction repository. This repository contains:
 - High security vulnerability issue.
 - Random 51 stuff.
 - Ugly code.
+
+:warning: **Attention** :warning:
+
+Don't use any code inside this repository for your daily usage or for god sake, the production environment.
