@@ -26,6 +26,8 @@ module.exports = async ({ config }) => {
         {
           loader: require.resolve('@storybook/source-loader'),
           options: {
+            // When set to typescript, the show code panel from
+            // the docs view become "No code available"
             // parser: 'typescript',
             prettierConfig: {
               arrowParens: 'avoid',
