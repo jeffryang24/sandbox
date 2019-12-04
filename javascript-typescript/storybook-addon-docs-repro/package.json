@@ -22,6 +22,6 @@
     "react-dom": "^16.12.0"
   },
   "scripts": {
-    "dev": "start-storybook --port 8900"
+    "dev": "start-storybook --port 8900 --static-dir public"
   }
 }
