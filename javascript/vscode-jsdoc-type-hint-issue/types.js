@@ -48,5 +48,14 @@
  * @typedef {{ firstName: string, lastName: string, dateOfBirth: DayMonthYearVariant2 }} PersonVariant4
  */
 
+// Working
+/**
+ * PersonVariant5
+ * @typedef {Object} PersonVariant5
+ * @property {string} firstName
+ * @property {string} lastName
+ * @property {DayMonthYearVariant2} dateOfBirth
+ */
+
 // Ensure this file is a module.
-export {};
+export { };

@@ -4,6 +4,7 @@
  * @typedef {import('./types').PersonVariant2} PersonVariant2 // Working
  * @typedef {import('./types').PersonVariant3} PersonVariant3 // Working
  * @typedef {import('./types').PersonVariant4} PersonVariant4 // Working
+ * @typedef {import('./types').PersonVariant5} PersonVariant5 // Working
  */
 
 /**
