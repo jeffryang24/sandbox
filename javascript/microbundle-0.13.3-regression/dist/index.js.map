@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/Button/Button.js"],"sourcesContent":["import React from 'react';\n\nexport function Button(props) {\n  return <button {...props}>{`Hello, ${props.name}`}</button>;\n}\n"],"names":["Button","props","React","name"],"mappings":"8BAEgBA,EAAOC,GACrB,OAAOC,yBAAYD,YAAkBA,EAAME"}

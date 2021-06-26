@@ -1,0 +1,1 @@
+{"version":3,"file":"index.cjs","sources":["../src/Button/Button.js"],"sourcesContent":["import React from 'react';\n\nexport function Button(props) {\n  return <button {...props}>{`Hello, ${props.name}`}</button>;\n}\n"],"names":["props","React","name"],"mappings":"uIAEuBA,GACrB,OAAOC,iCAAYD,YAAkBA,EAAME"}
